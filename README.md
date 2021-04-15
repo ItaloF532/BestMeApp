@@ -1,1 +1,2 @@
 # LearningRepository
+Repositóroi para aprendizado.
